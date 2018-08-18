@@ -34,9 +34,16 @@ textarea{
     padding: 10px;
 }
 button{
+    border:none;
     background-color: #4aaaa5;
     padding: 10px 20px 10px 20px;
     color: #ffffff;
+}
+button:hover{
+    background-color: #4aaaaaa5
+}
+a:hover{
+    font-size: 20px;
 }
 .about{
     color: #4aaaa5
